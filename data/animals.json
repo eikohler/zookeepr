@@ -110,13 +110,24 @@
       "id": "10"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "idk",
+      "name": "Bob",
+      "species": "Dog",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "zany",
+        "goofy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Craig",
+      "species": "Dolphin",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
